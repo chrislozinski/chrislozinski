@@ -1,11 +1,17 @@
 # chris lozinski
 
-<pre style="background-color: #2d2d2d; color: #cccccc; padding: 20px; border-radius: 8px; font-family: 'Courier New', Courier, monospace;">
-- Bachelors of Computing Honours at the University of Guelph.
-- Working on a Masters of Philosophy in the Ethics of Artifical Intelligence under the supervision of Professor Gus Skorberg in September 2026.
-- Focused on building applications centered on Human Computer Interaction and Education
+<div align="center">
+<div style="background-color: #2d2d2d; color: #f0f0f0; padding: 30px; border-radius: 15px; font-family: 'Courier New', Courier, monospace; width: 80%; border: 1px solid #444;">
 
---
-Contact: [chrislozinski.com](https://chrislozinski.com/#contact)
-LinkedIn: [@chrislozinski](https://www.linkedin.com/in/chrislozinski/)
-</pre>
+### Profile
+Bachelors of Computing Honours at the University of Guelph.
+<br>
+Working on a Masters of Philosophy in the Ethics of A.I, supervised by Prof. Gus Skorberg in Sept 2026
+<br>
+Focused on building applications centered on Human Computer Interaction and Education
+
+<br>
+
+**[Contact](https://chrislozinski.com/#contact) | [LinkedIn](https://www.linkedin.com/in/chrislozinski/)**
+</div>
+</div>
