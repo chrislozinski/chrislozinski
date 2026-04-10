@@ -1,0 +1,37 @@
+<svg viewBox="0 0 720 300" xmlns="http://www.w3.org/2000/svg" width="100%">
+  <rect width="720" height="300" rx="10" fill="#1e1e2e"/>
+  <rect width="720" height="44" rx="10" fill="#174A83"/>
+  <rect y="34" width="720" height="10" fill="#174A83"/>
+  <circle cx="22" cy="22" r="6" fill="#ff5f57"/>
+  <circle cx="42" cy="22" r="6" fill="#febc2e"/>
+  <circle cx="62" cy="22" r="6" fill="#28c840"/>
+  <text x="360" y="27" font-family="'Courier New', monospace" font-size="13" fill="#ffffffaa" text-anchor="middle">chrislozinski@profile — about</text>
+
+  <text x="32" y="82" font-family="'Courier New', monospace" font-size="13" fill="#174A83" font-weight="bold">chrislozinski</text>
+  <text x="139" y="82" font-family="'Courier New', monospace" font-size="13" fill="#6272a4">@</text>
+  <text x="150" y="82" font-family="'Courier New', monospace" font-size="13" fill="#50fa7b">github</text>
+  <text x="196" y="82" font-family="'Courier New', monospace" font-size="13" fill="#f8f8f2"> ~ % </text>
+  <text x="240" y="82" font-family="'Courier New', monospace" font-size="13" fill="#bd93f9">cat</text>
+  <text x="265" y="82" font-family="'Courier New', monospace" font-size="13" fill="#f8f8f2"> about.txt</text>
+
+  <line x1="32" y1="96" x2="688" y2="96" stroke="#ffffff18" stroke-width="1"/>
+
+  <text x="32" y="122" font-family="'Courier New', monospace" font-size="22" fill="#ffffff" font-weight="bold">Hey, i'm Chris!</text>
+
+  <text x="32" y="152" font-family="'Courier New', monospace" font-size="12.5" fill="#cdd6f4"><tspan fill="#bd93f9">▸ </tspan>B.Computing Honours — University of Guelph</text>
+  <text x="32" y="174" font-family="'Courier New', monospace" font-size="12.5" fill="#cdd6f4"><tspan fill="#bd93f9">▸ </tspan>M.Phil Ethics of A.I (Sept 2026) — supervised by Prof. Gus Skorberg</text>
+  <text x="32" y="196" font-family="'Courier New', monospace" font-size="12.5" fill="#cdd6f4"><tspan fill="#bd93f9">▸ </tspan>Building apps centered on Human Computer Interaction and Education</text>
+
+  <line x1="32" y1="214" x2="688" y2="214" stroke="#ffffff18" stroke-width="1"/>
+
+  <text x="32" y="238" font-family="'Courier New', monospace" font-size="13" fill="#f8f8f2"> ~ % </text>
+  <text x="76" y="238" font-family="'Courier New', monospace" font-size="13" fill="#bd93f9">open</text>
+  <text x="108" y="238" font-family="'Courier New', monospace" font-size="13" fill="#f8f8f2"> links</text>
+
+  <a href="https://chrislozinski.com/#contact">
+    <text x="32" y="264" font-family="'Courier New', monospace" font-size="12.5" fill="#8be9fd" text-decoration="underline">chrislozinski.com</text>
+  </a>
+  <a href="https://www.linkedin.com/in/chrislozinski/">
+    <text x="220" y="264" font-family="'Courier New', monospace" font-size="12.5" fill="#8be9fd" text-decoration="underline">linkedin/in/chrislozinski</text>
+  </a>
+</svg>
